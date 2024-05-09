@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 - Self-Hosting
 - k8s
 
+### want to do
+
+- OSS contribution
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=megutamago&theme=midnight_purple)
 
 <p>
