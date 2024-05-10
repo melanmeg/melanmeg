@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 
 - OSS contribution
 
+### tried to make it
+
+- https://pekoraskey.melanmeg.com/
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=megutamago&theme=midnight_purple)
 
 <p>
