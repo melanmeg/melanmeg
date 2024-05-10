@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 - Self-Hosting
 - k8s
 
-### want to do
+### Want to do
 
 - OSS contribution
 
-### tried to make it
+### Tried to make it
 
 - https://pekoraskey.melanmeg.com/
 
