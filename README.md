@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ### Interested in now
 - Platform Enginnering
 - CI/CD
+- Performance Tuning on k8s
 
 ### Try to do
 - OSS contribution
