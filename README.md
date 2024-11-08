@@ -17,18 +17,18 @@ Here are some ideas to get you started:
 
 ## melanmeg
 
+### Areas to be pursued
+- *Performance Tuning*
+
 ### Hobby
 
 - Self-Hosting
 - k8s
+- ISUCON
 
-### Want to do
+### Try to do
 
 - OSS contribution
-
-### Tried to make it
-
-- https://pekoraskey.melanmeg.com/
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melanmeg&theme=midnight_purple)
 
