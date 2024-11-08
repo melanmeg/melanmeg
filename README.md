@@ -21,13 +21,14 @@ Here are some ideas to get you started:
 - *Performance Tuning*
 
 ### Hobby
-
-- Self-Hosting
-- k8s
+- Self-Hosting/k8s
 - ISUCON
 
-### Try to do
+### Interested in now
+- Platform Enginnering
+- CI/CD
 
+### Try to do
 - OSS contribution
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melanmeg&theme=midnight_purple)
