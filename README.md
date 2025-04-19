@@ -17,20 +17,10 @@ Here are some ideas to get you started:
 
 ## melanmeg
 
-### Areas to be pursued
-- *Performance Tuning*
-
-### Hobby
-- Self-Hosting/k8s
-- ISUCON
-
 ### Interested in now
-- Platform Enginnering
+- SRE
 - Observability Enginnering
-- CI/CD
-
-### Try to do
-- OSS contribution
+- Performance Tuning
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melanmeg&theme=midnight_purple)
 
