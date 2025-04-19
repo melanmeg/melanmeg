@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## melanmeg
 
-### Interested in now
+### Interested
 - SRE
 - Observability Enginnering
 - Performance Tuning
