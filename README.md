@@ -17,10 +17,16 @@ Here are some ideas to get you started:
 
 ## melanmeg
 
-### Interested
+### 得意分野
+- Docker
+- Ansible
+- Keycloak
+- k6
+- ロギング
+
+### 興味
 - SRE
-- Observability Enginnering
-- Performance Tuning
+- パフォーマンスチューニング
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melanmeg&theme=midnight_purple)
 
